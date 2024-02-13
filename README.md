@@ -1,5 +1,5 @@
 # BioML
-A collection of AI , machine learning and Deep learning tools for Biology
+A list of AI , machine learning and Deep learning tools for Biology
 
 
 ## Contents
