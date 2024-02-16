@@ -24,8 +24,7 @@ A list of repository about tools for Biology research.
 
 ## Others nice lists and repositories
 
-### Biological Image Analysis
-
+- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
 
 
 
