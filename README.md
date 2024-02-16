@@ -8,7 +8,7 @@ A list of repository about tools for Biology research.
 
 ##  Biological Data Visualizations
 
--[Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
+- [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
 
 ## Electrophysiology Analysis
 
