@@ -8,7 +8,7 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 
 ## Biological Image Analysis
 
-- [awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
+- [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
 - [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
 
 ## Electrophysiology Analysis
@@ -17,7 +17,8 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 
 ## Single Cell RNAseq Analysis
 
-- [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
+- [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics) - About List of tools and resources related to the 10x Genomics GEMCode/Chromium system.
+- [Awesome Deep Learning Single Cell Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
 
 ## Spatial Transcriptomic Analysis
 
