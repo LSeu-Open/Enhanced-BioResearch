@@ -13,7 +13,7 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 
 ## Electrophysiology Analysis
 
-## Large Language Model (LLM) adapted to bioinformatic
+
 
 ## Single Cell RNAseq Analysis
 
@@ -24,6 +24,8 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 ## Spatial Transcriptomic Analysis
 
 ## Usefull tools powered by AI
+
+## Large Language Model (LLM) adapted to bioinformatic
 
 ## *Unsorted*
 
