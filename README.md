@@ -4,6 +4,7 @@ A list of repository about Articles, softwares, tools, pipelines, plugins etc. f
 ##  Biological Data Visualizations
 
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
+- [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) - Quarto® is an open-source scientific and technical publishing system built on Pandoc. A curated list of Quarto talks, tools, examples & articles!
 
 ## Biological Image Analysis
 
