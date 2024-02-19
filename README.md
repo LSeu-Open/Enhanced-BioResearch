@@ -19,6 +19,7 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 
 - [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics) - About List of tools and resources related to the 10x Genomics GEMCode/Chromium system.
 - [Awesome Deep Learning Single Cell Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
+- [Single Cell Pseudotime](https://github.com/agitter/single-cell-pseudotime) - An overview of algorithms for estimating pseudotime in single-cell RNA-seq data.
 
 ## Spatial Transcriptomic Analysis
 
