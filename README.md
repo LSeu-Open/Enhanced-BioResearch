@@ -1,4 +1,4 @@
-# Enhanced Research
+# Enhanced BioResearch
 A list of repository about Articles, softwares, tools, pipelines, plugins etc. for Biology research.
 
 ##  Biological Data Visualizations
