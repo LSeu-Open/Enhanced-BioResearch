@@ -22,9 +22,10 @@ A list of repository about Articles, softwares, tools, pipelines, plugins etc. f
 
 ## Usefull tools powered by AI
 
-## Others nice lists and repositories
+## *Unsorted*
 
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
+- [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata) - A curated list of awesome cytodata resources.
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources.
 - [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
