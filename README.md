@@ -25,6 +25,7 @@ A list of repository about Articles, softwares, tools, pipelines, plugins etc. f
 ## Others nice lists and repositories
 
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
+- [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 
 
 
