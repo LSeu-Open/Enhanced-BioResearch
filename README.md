@@ -24,12 +24,12 @@ A list of repository about Articles, softwares, tools, pipelines, plugins etc. f
 
 ## Others nice lists and repositories
 
-- [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources.
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
-
+- [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
 
 
 
