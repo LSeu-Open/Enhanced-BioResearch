@@ -1,5 +1,5 @@
 # Enhanced BioResearch
-A list of repository about Articles, softwares, tools, pipelines, plugins etc. for Biology research.
+A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research.
 
 ##  Biological Data Visualizations
 
@@ -31,6 +31,7 @@ A list of repository about Articles, softwares, tools, pipelines, plugins etc. f
 - [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+- [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
 
