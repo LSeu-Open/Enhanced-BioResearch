@@ -6,26 +6,26 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) - Quarto® is an open-source scientific and technical publishing system built on Pandoc. A curated list of Quarto talks, tools, examples & articles!
 
-## Image Analysis
+## Biological Imaging
 
 - [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
 - [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
 
-## Electrophysiology Analysis
+## Electrophysiology 
 
 - [Open Software for Human Electrophysiology](https://github.com/openlists/ElectrophysiologySoftware) - A list of openly available software and code for working with electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP.
 
-## Single Cell RNAseq Analysis
+## Single Cell RNAse
 
 - [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics) - About List of tools and resources related to the 10x Genomics GEMCode/Chromium system.
 - [Awesome Deep Learning Single Cell Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
 - [Single Cell Pseudotime](https://github.com/agitter/single-cell-pseudotime) - An overview of algorithms for estimating pseudotime in single-cell RNA-seq data.
 
-## Spatial Transcriptomic Analysis
+## Spatial Transcriptomic 
 
-## Usefull tools powered by AI
+## Productivity
 
-## Large Language Model (LLM) adapted to bioinformatic
+## AI usage in Science
 
 ## *Unsorted*
 
