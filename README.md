@@ -13,7 +13,7 @@ A collection of repository about Articles, softwares, tools, pipelines, plugins 
 
 ## Electrophysiology Analysis
 
-
+- [Open Software for Human Electrophysiology](https://github.com/openlists/ElectrophysiologySoftware) - A list of openly available software and code for working with electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP.
 
 ## Single Cell RNAseq Analysis
 
