@@ -1,12 +1,12 @@
 # Enhanced BioResearch
 A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research.
 
-##  Biological Data Visualizations
+## Data Visualizations
 
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) - Quarto® is an open-source scientific and technical publishing system built on Pandoc. A curated list of Quarto talks, tools, examples & articles!
 
-## Biological Image Analysis
+## Image Analysis
 
 - [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
 - [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
