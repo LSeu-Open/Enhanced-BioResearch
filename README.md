@@ -1,6 +1,12 @@
 # Enhanced BioResearch
-A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research. 
-This Repository doesn't pretend to be exaustive and list everything for every domain.
+
+## Table of Contents
+
+## About this Repository
+
+A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research.
+
+The goal of this page is to make you a more efficient scientist. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 
 ## AI usage in Science
 
