@@ -6,7 +6,12 @@
 
 A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research.
 
-The goal of this page is to make you a more efficient scientist. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
+The goal of this page is to make you a more efficient scientist.
+
+- This page is not meant to be comprehensive.
+- I don't necessarily agree with or endorse every single line that is written in every single one of those resources.
+
+Feel free to open a PR to contribute!
 
 ## AI usage in Science
 
