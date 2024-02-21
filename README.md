@@ -2,6 +2,18 @@
 
 ## Table of Contents
 
+- [AI usage in Science](#ai-usage-in-science)
+- [Biological Imaging](#biological-imaging)
+- [Bioinformatics](#bioinformatics)
+- [Data Visualizations](#data-visualizations)
+- [Electrophysiology](#electrophysiology)
+- [Genetics](#genetics)
+- [Neuroscience](#neuroscience)
+- [Productivity](#productivity)
+- [Single Cell RNAseq](#single-cell-rnaseq)
+- [Spatial Transcriptomic](#spatial-transcriptomic)
+
+
 ## About this Repository
 
 A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research.
