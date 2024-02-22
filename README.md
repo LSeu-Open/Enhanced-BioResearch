@@ -51,6 +51,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 - [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
 - [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata) - A curated list of software, datasets, landmark publications, and image-based profiling methods.
+- [Python for Bioimage Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis) -  Repository for a Python bioimage analysis course which establishes the fundamentals of image analysis in the context of biological imaging.
   
 ## Bioinformatics
 
