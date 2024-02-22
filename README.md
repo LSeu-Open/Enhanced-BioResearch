@@ -73,6 +73,7 @@ However relying too heavily on AI in scientific research can have both positive 
 ## Neuroscience
 
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
+- [Neurodata Without Borders](https://github.com/NeurodataWithoutBorders) - Neurodata Without Borders (NWB) provides a common self-describing format ideal for archiving neurophysiology data and sharing it with colleagues.
 
 ## Productivity
 
