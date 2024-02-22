@@ -84,6 +84,9 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 ## Microbiology
 
+- [Just a Microbiology System (JAMS)](https://github.com/johnmcculloch/JAMS_BW) -  A suite for analyzing microbiological sequencing data for use on NIH HPC systems (Biowulf).
+- [PPanGGOLiN](https://github.com/labgem/PPanGGOLiN) - A software suite used to create and manipulate prokaryotic pangenomes from a set of either genomic DNA sequences or provided genome annotations.
+
 ## Molecular Biology
 
 - [Biopython](https://github.com/biopython/biopython) - Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
