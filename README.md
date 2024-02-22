@@ -31,7 +31,9 @@ Artificial intelligence (AI) has the potential to revolutionize science in sever
 
 By leveraging AI, scientists can formulate stronger hypotheses, conduct more experiments, and pursue bolder and more interdisciplinary research, ultimately leading to more efficient and innovative scientific discoveries
 
-However relying too heavily on AI in scientific research can have both positive and negative consequences. Some potential drawbacks include:
+However relying too heavily on AI in scientific research can have both positive and negative consequences. 
+
+Some potential drawbacks include:
 
 - **Reduced Creativity and Critical Thinking**: Over-reliance on AI for decision-making and problem-solving may lead to a reduction in human skills such as creativity and critical thinking, limiting the ability to innovate and adapt to new situations.
 - **Increased Bias and Inequality**: AI can perpetuate and amplify biases existing in the data it is trained on, potentially leading to unfair or discriminatory outcomes. This raises concerns about ethical implications and fairness in decision-making.
