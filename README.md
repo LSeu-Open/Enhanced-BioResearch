@@ -54,6 +54,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
   
 ## Bioinformatics
 
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems.
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
