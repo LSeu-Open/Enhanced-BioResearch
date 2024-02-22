@@ -55,8 +55,12 @@ When using AI tools in scientific research, scientists should keep in mind the f
 ## Bioinformatics
 
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
+- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 
 ## Cell Biology
 
@@ -84,6 +88,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 - [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
+- [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images) - A curated list of resources for 3D segmentation of neurites in EM images.
 - [Neurodata Without Borders](https://github.com/NeurodataWithoutBorders) - Neurodata Without Borders (NWB) provides a common self-describing format ideal for archiving neurophysiology data and sharing it with colleagues.
 
 ## Productivity
