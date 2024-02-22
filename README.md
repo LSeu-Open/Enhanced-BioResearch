@@ -66,8 +66,6 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [static analysis tools](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
-## Cell Biology
-
 ## Data Visualizations
 
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
