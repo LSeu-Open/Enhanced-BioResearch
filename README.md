@@ -51,7 +51,6 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 - [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
 - [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata) - A curated list of software, datasets, landmark publications, and image-based profiling methods.
-- [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
   
 ## Bioinformatics
 
@@ -74,6 +73,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 ## Neuroscience
 
+- [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [Neurodata Without Borders](https://github.com/NeurodataWithoutBorders) - Neurodata Without Borders (NWB) provides a common self-describing format ideal for archiving neurophysiology data and sharing it with colleagues.
 
