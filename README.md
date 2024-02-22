@@ -39,7 +39,7 @@ Some potential drawbacks include:
 - **Increased Bias and Inequality**: AI can perpetuate and amplify biases existing in the data it is trained on, potentially leading to unfair or discriminatory outcomes. This raises concerns about ethical implications and fairness in decision-making.
 - **Ethical Concerns**: As AI becomes more sophisticated, it may be used to make decisions with significant ethical implications, raising concerns about transparency and ethical use of AI.
 
-  When using AI tools in scientific research, scientists should keep in mind the following considerations:
+When using AI tools in scientific research, scientists should keep in mind the following considerations:
   
 - **Responsibility and Limitations**: It's essential to use AI responsibly, understand its limitations, and ensure that human expertise remains central to the research process.
 - **Data Security and Privacy**: Researchers should be aware of data security and privacy implications when using AI tools, especially in relation to data types and potential legal consequences in case of a data breach.
