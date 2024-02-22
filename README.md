@@ -86,6 +86,8 @@ When using AI tools in scientific research, scientists should keep in mind the f
 ## Microbiology
 
 ## Molecular Biology
+
+-[Biopython](https://github.com/biopython/biopython) - Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
   
 ## Neurosciences
 
