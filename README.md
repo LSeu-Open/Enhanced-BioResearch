@@ -56,7 +56,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources.
-- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
+- [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
 
 ## Cell Biology
 
