@@ -100,6 +100,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 ## *Unsorted*
 
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
+- [Open Source Society University](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
 
 
 
