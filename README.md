@@ -5,13 +5,14 @@
 - [AI usage in Science](#ai-usage-in-science)
 - [Biological Imaging](#biological-imaging)
 - [Bioinformatics](#bioinformatics)
+- [Cell Biology](cell-biology)
 - [Data Visualizations](#data-visualizations)
 - [Electrophysiology](#electrophysiology)
-- [Genetics](#genetics)
-- [Neuroscience](#neuroscience)
+- [Genetics and Genomics](#genetics-and-genomics)
+- [Microbiology](#microbiology)
+- [Molecular Biology](#molecular-biology)
+- [Neurosciences](#neurosciences)
 - [Productivity](#productivity)
-- [Single Cell RNAseq](#single-cell-rnaseq)
-- [Spatial Transcriptomic](#spatial-transcriptomic)
 
 
 ## About this Repository
@@ -58,6 +59,8 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources.
 - [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
 
+## Cell Biology
+
 ## Data Visualizations
 
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
@@ -67,11 +70,18 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 - [Open Software for Human Electrophysiology](https://github.com/openlists/ElectrophysiologySoftware) - A list of openly available software and code for working with electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP.
 
-## Genetics
+## Genetics and Genomics
 
+- [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics) - A List of tools and resources related to the 10x Genomics GEMCode/Chromium system.
+- [Awesome Deep Learning Single Cell Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
 - [Awesome vdj](https://github.com/slowkow/awesome-vdj) - Tools and databases for analyzing HLA and VDJ genes.
+- [Single Cell Pseudotime](https://github.com/agitter/single-cell-pseudotime) - An overview of algorithms for estimating pseudotime in single-cell RNA-seq data.
 
-## Neuroscience
+## Microbiology
+
+## Molecular Biology
+  
+## Neurosciences
 
 - [Awesome DeepNeuroImage](https://github.com/alxndrkalinin/awesome-deepneuroimage) -  A curated list of awesome deep learning applications in the field of neurological image analysis
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
@@ -82,15 +92,6 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
-
-## Single Cell RNAseq
-
-- [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics) - A List of tools and resources related to the 10x Genomics GEMCode/Chromium system.
-- [Awesome Deep Learning Single Cell Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
-- [Single Cell Pseudotime](https://github.com/agitter/single-cell-pseudotime) - An overview of algorithms for estimating pseudotime in single-cell RNA-seq data.
-
-## Spatial Transcriptomic 
-
 
 ## *Unsorted*
 
