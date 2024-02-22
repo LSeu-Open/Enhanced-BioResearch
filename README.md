@@ -17,14 +17,13 @@
 
 ## About this Repository
 
-A collection of repository about Articles, softwares, tools, pipelines, plugins and more, for Biology research.
+A curated repository featuring articles, software, tools, pipelines, plugins, and more  for biology research needs.
 
-The goal of this page is to make you a more efficient scientist.
+The aim is to empower scientists like you to work more efficiently and effectively.
 
-- This page is not meant to be comprehensive.
-- I don't necessarily agree with or endorse every single line that is written in every single one of those resources.
+Please note that while this page offers valuable resources, it is not exhaustive. Additionally, inclusion in this collection does not imply full endorsement of every item listed.
 
-Feel free to open a PR to contribute!
+We welcome contributions! Feel free to open a pull request (PR) to enhance the repository.
 
 ## AI usage in Science
 
