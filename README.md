@@ -101,6 +101,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images) - A curated list of resources for 3D segmentation of neurites in EM images.
 - [Neurodata Without Borders](https://github.com/NeurodataWithoutBorders) - Neurodata Without Borders (NWB) provides a common self-describing format ideal for archiving neurophysiology data and sharing it with colleagues.
+- [Neuromatch Academy](https://github.com/NeuromatchAcademy) - This program provides a dynamic learning experience that fuses neuroscience and computational techniques.
 
 ## Productivity
 
