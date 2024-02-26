@@ -101,6 +101,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images) - A curated list of resources for 3D segmentation of neurites in EM images.
 - [Neurodata Without Borders](https://github.com/NeurodataWithoutBorders) - Neurodata Without Borders (NWB) provides a common self-describing format ideal for archiving neurophysiology data and sharing it with colleagues.
+- [neuroHarmonize](https://github.com/rpomponio/neuroHarmonize) - About Harmonization tools for multi-site neuroimaging analysis. Implemented as a python package. Harmonization of MRI, sMRI, dMRI, fMRI variables with support for NIFTI images.
 - [Neuromatch Academy](https://github.com/NeuromatchAcademy) - This program provides a dynamic learning experience that fuses neuroscience and computational techniques.
 - [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources) - A publicly-editable collection of open computational neuroscience resources.
 
