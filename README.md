@@ -21,6 +21,8 @@ A curated repository featuring articles, software, tools, pipelines, plugins, an
 
 All the resources on this page are included on the assumption that you know how to code in Python and/or other languages, or that you're willing to learn.
 
+If you want to learn, I'll provide you with courses and links to help you at the bottom of this page.
+
 The aim is to empower scientists like you to work more efficiently and effectively.
 
 Please note that while this page offers valuable resources, it is not exhaustive. Additionally, inclusion in this collection does not imply full endorsement of every item listed.
