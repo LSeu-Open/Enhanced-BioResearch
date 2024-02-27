@@ -111,7 +111,6 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 ## Productivity
 
-- [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 
