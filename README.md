@@ -90,7 +90,9 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 ## Microbiology
 
+- [Antimicrobial Resistance (AMR)](https://github.com/msberends/AMR) - Functions to simplify and standardise antimicrobial resistance (AMR) data analysis and to work with microbial and antimicrobial properties by using evidence-based methods.
 - [Just a Microbiology System (JAMS)](https://github.com/johnmcculloch/JAMS_BW) -  A suite for analyzing microbiological sequencing data for use on NIH HPC systems (Biowulf).
+- [Platon](https://github.com/oschwengers/platon) - Identification & characterization of bacterial plasmid-borne contigs from short-read draft assemblies.
 - [PPanGGOLiN](https://github.com/labgem/PPanGGOLiN) - A software suite used to create and manipulate prokaryotic pangenomes from a set of either genomic DNA sequences or provided genome annotations.
 
 ## Molecular Biology
