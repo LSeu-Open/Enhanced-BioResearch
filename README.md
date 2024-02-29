@@ -17,7 +17,7 @@
 
 ## About this Repository
 
-A curated repository featuring articles, software, tools, pipelines, plugins, and more  for biology research needs.
+A curated list of repositories featuring articles, software, tools, pipelines, plugins, and more for biology research needs.
 
 All the resources on this page are included on the assumption that you know how to code in Python and/or other languages, or that you're willing to learn.
 
@@ -25,7 +25,7 @@ If you want to learn, I'll provide you with courses and links to help you at the
 
 The aim is to empower scientists like you to work more efficiently and effectively.
 
-Please note that while this page offers valuable resources, it is not exhaustive. Additionally, inclusion in this collection does not imply full endorsement of every item listed.
+Please note that while this page offers valuable resources, it is not exhaustive and does not list all individual tools. Furthermore, inclusion in this collection does not imply full endorsement of every item listed.
 
 We welcome contributions! Feel free to open a pull request (PR) to enhance the repository.
 
