@@ -5,7 +5,6 @@
 - [AI usage in Science](#ai-usage-in-science)
 - [Biological Imaging](#biological-imaging)
 - [Bioinformatics](#bioinformatics)
-- [Cell Biology](cell-biology)
 - [Data Visualizations](#data-visualizations)
 - [Electrophysiology](#electrophysiology)
 - [Genetics and Genomics](#genetics-and-genomics)
