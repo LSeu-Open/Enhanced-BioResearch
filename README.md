@@ -85,6 +85,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Deep Learning Single Cell Papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) - A repository of the latest articles on single-cell analysis using deep learning methods.
 - [Awesome vdj](https://github.com/slowkow/awesome-vdj) - Tools and databases for analyzing HLA and VDJ genes.
 - [Getting started with genomics](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R and python tools for genomics and data science.
+- [pyGenomeViz](https://github.com/moshi4/pyGenomeViz) - A genome visualization python package for comparative genomics.
 - [Single Cell Pseudotime](https://github.com/agitter/single-cell-pseudotime) - An overview of algorithms for estimating pseudotime in single-cell RNA-seq data.
 
 ## Microbiology
