@@ -77,6 +77,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 ## Electrophysiology 
 
+- [Open Datasets in Electrophysiology](https://github.com/openlists/ElectrophysiologyData) - A list of openly available datasets in (mostly human) electrophysiology.
 - [Open Software for Human Electrophysiology](https://github.com/openlists/ElectrophysiologySoftware) - A list of openly available software and code for working with electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP.
 
 ## Genetics and Genomics
