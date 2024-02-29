@@ -13,15 +13,14 @@
 - [Molecular Biology](#molecular-biology)
 - [Neurosciences](#neurosciences)
 - [Productivity](#productivity)
+- [Teach Me](#teach-me-please)
 
 
 ## About this Repository
 
 A curated list of repositories featuring articles, software, tools, pipelines, plugins, and more for biology research needs.
 
-All the resources on this page are included on the assumption that you know how to code in Python and/or other languages, or that you're willing to learn.
-
-If you want to learn, I'll provide you with courses and links to help you at the bottom of this page.
+All the resources on this page are included on the assumption that you know how to code in Python and/or other languages, or that you're willing to learn. If you want to learn, I'll provide you with courses and links to help you at the bottom of this page.
 
 The aim is to empower scientists like you to work more efficiently and effectively.
 
@@ -114,6 +113,8 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 - [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
+
+## Teach Me Please
 
 ## *Unsorted*
 
