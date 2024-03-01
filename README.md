@@ -99,6 +99,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 
 ## Molecular Biology
 
+- [BioPandas](https://github.com/BioPandas/biopandas) - Working with molecular structures in pandas DataFrames.
 - [Biopython](https://github.com/biopython/biopython) - Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.
 - [Biotite](https://github.com/biotite-dev/biotite) - A comprehensive library for computational molecular biology.
   
