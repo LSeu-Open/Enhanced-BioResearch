@@ -66,7 +66,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
 - [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
-- [static analysis tools](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [scikit-bio](https://github.com/scikit-bio/scikit-bio) - A community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 
 ## Data Visualizations
 
