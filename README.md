@@ -73,6 +73,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) - Quarto® is an open-source scientific and technical publishing system built on Pandoc. A curated list of Quarto talks, tools, examples & articles!
 - [BioExplorer](https://github.com/BlueBrain/BioExplorer) - A tool for data visualization experts and scientists to extract and analyze scientific data from visualization and interactive exploration.
+- [DNA Features Viewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer) - Python library to plot DNA sequence features.
 
 ## Electrophysiology 
 
