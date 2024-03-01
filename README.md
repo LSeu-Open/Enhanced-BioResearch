@@ -67,6 +67,7 @@ When using AI tools in scientific research, scientists should keep in mind the f
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
 - [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [scikit-bio](https://github.com/scikit-bio/scikit-bio) - A community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
+- [Seq](https://docs.seq-lang.org/) - A Pythonic language for computational genomics and bioinformatics.
 
 ## Data Visualizations
 
