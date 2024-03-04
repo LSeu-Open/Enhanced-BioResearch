@@ -101,6 +101,9 @@ We welcome contributions! Feel free to open a pull request (PR) to enhance the r
 
 ### Help Me Please
 
+- You want to learn Python or R language :arrow_forward: go to the [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center).
+- You want to learn Data Science, machine Learning and Deep Learning :arrow_forward: go to the [AI, ML and DL Section](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center/AI%2C%20Machine%20Learning%20and%20Deep%20Learning)
+
 ### *Unsorted*
 
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
