@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [AI usage in Science](#ai-usage-in-science)
 - [Biological Imaging](#biological-imaging)
 - [Bioinformatics](#bioinformatics)
 - [Data Visualizations](#data-visualizations)
