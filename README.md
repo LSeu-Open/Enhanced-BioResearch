@@ -11,7 +11,6 @@
 - [Molecular Biology](#molecular-biology)
 - [Neurosciences](#neurosciences)
 - [Productivity](#productivity)
-- [Teach Me](#teach-me-please)
 
 
 ## About this Repository
@@ -98,9 +97,11 @@ We welcome contributions! Feel free to open a pull request (PR) to enhance the r
 - [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 
-## Teach Me Please
+-------------------------
 
-## *Unsorted*
+### Help Me Please
+
+### *Unsorted*
 
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
 - [Open Source Society University](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
