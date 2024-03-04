@@ -23,7 +23,7 @@ The aim is to empower scientists like you to work more efficiently and effective
 
 Please note that while this page offers valuable resources, it is not exhaustive and does not list all individual tools. Furthermore, inclusion in this collection does not imply full endorsement of every item listed.
 
-We welcome contributions! Feel free to open a pull request (PR) to enhance the repository.
+Feel free to open a pull request (PR) to enhance the repository.
 
 
 ## Biological Imaging
