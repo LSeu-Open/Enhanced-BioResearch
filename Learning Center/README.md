@@ -1,6 +1,6 @@
 # Enhanced BioResearch Learning Center
 
-Welcome to the Learning Center! Here, I'll offer guidance and resources to assist you in your desire to learn. Please note that while I aim to provide valuable insights, this page may not offer a perfect learning pathway.
+Welcome to the Learning Center! Here you'll find tips and resources to help you in your desire to learn. Please note that, while my goal is to provide you with valuable information, this page does not necessarily offer a perfect learning path.
 
 Feel free to open a pull request (PR) to enhance the repository.
 
