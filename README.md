@@ -1,5 +1,7 @@
 # Enhanced BioResearch
 
+A curated list of repositories featuring articles, software, tools, pipelines, plugins, and more for biology research needs. This collection aims to empower scientists to work more efficiently and effectively by providing valuable resources.
+
 ## Table of Contents
 
 - [Biological Imaging](#biological-imaging)
@@ -11,39 +13,36 @@
 - [Molecular Biology](#molecular-biology)
 - [Neurosciences](#neurosciences)
 - [Productivity](#productivity)
+- [Learning Ressources](#learning-ressources)
 
 
 ## About this Repository
 
-A curated list of repositories featuring articles, software, tools, pipelines, plugins, and more for biology research needs.
+All resources in this repository assume that you have a working knowledge of Python and/or other programming languages or are willing to learn. If you're interested in learning, check out the courses and links provided at the bottom of this page.
 
-All the resources on this page are included on the assumption that you know how to code in Python and/or other languages, or that you're willing to learn. If you want to learn, I'll provide you with courses and links to help you at the bottom of this page.
-
-The aim is to empower scientists like you to work more efficiently and effectively.
-
-Please note that while this page offers valuable resources, it is not exhaustive and does not list all individual tools. Furthermore, inclusion in this collection does not imply full endorsement of every item listed.
+Please note that while this repository offers a wide range of resources, it is not exhaustive and does not include every individual tool available. Inclusion in this collection does not imply full endorsement of every item listed.
 
 Feel free to open a pull request (PR) to enhance the repository.
 
 
 ## Biological Imaging
 
-- [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
+- [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) - A curated list of software, tools, pipelines, and plugins for image analysis related to biological questions.
 - [Awesome Cytodata](https://github.com/cytodata/awesome-cytodata) - A curated list of software, datasets, landmark publications, and image-based profiling methods.
-- [Bio image Analysis with Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python) - A repository contains training resources for Python beginners who want to dive into image processing with Python.
-- [Python for Bioimage Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis) -  Repository for a Python bioimage analysis course which establishes the fundamentals of image analysis in the context of biological imaging.
+- [Bio image Analysis with Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python) - A repository containing training resources for Python beginners interested in image processing.
+- [Python for Bioimage Analysis](https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis) - A repository for a Python bioimage analysis course covering the fundamentals of image analysis in the context of biological imaging.
   
 ## Bioinformatics
 
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
-- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software and papers related to computational biology.
-- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems.
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
-- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software, and papers related to computational biology.
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply to real-world problems.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects, and communities.
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries, and resources.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries, and software.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
-- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
-- [scikit-bio](https://github.com/scikit-bio/scikit-bio) - A community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
+- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks, and software.
+- [scikit-bio](https://github.com/scikit-bio/scikit-bio) - A community-driven Python library for bioinformatics, providing versatile data structures, algorithms, and educational resources.
 - [Seq](https://docs.seq-lang.org/) - A Pythonic language for computational genomics and bioinformatics.
 
 ## Data Visualizations
@@ -97,17 +96,10 @@ Feel free to open a pull request (PR) to enhance the repository.
 - [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 
--------------------------
 
-### Help Me Please
+## Learning Ressources
 
-- You want to learn Python or R language :arrow_forward: go to the [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center).
-- You want to learn Data Science, machine Learning and Deep Learning :arrow_forward: go to the [AI, ML and DL Section](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center/AI%2C%20Machine%20Learning%20and%20Deep%20Learning)
-
-### *Unsorted*
-
-- [Citizen Science](https://github.com/dylanrees/citizen-science) - A repository of resources related to citizen, community-based and/or non-institutional science.
-- [Open Source Society University](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
-
+- [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center) - Resources for learning Python, R, and other programming languages.
+- [AI, ML and DL Section](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center/AI%2C%20Machine%20Learning%20and%20Deep%20Learning) - Resources for learning Data Science, Machine Learning, and Deep Learning.
 
 
