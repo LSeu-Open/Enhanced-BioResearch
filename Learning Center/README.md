@@ -9,7 +9,7 @@ Feel free to open a pull request (PR) to enhance the repository.
 - [Python](#python)
   * [What is Python](#what-is-python)
   * [A process learn Python](#a-process-to-learn-python)
-  * [Ressources to learn python](#ressources-to-learn-python)
+  * [Resources to learn python](#resources-to-learn-python)
 
 
 ## Python
@@ -68,29 +68,29 @@ There is no one-size-fits-all approach to learning a language like Python. What 
 
 * **Stay informed**: Keep yourself informed about new developments, updates, and best practices in Python by following relevant blogs, podcasts, and newsletters.
 
-### Ressources to learn Python
+### Resources to learn Python
 
 I will provide resources here to avoid the difficult part of choosing a course. I consider knowledge to be a human right, so I will only provide content that is free to access. As I said before, keep in mind that for some people (maybe you), it will be more appropriate to learn with a teacher in a physical class. Also, being included in this list doesn't necessarily mean that I approve of everything done by these entities.
 
 :computer: **Online Courses**
 
-- [CS50 - Python course](https://cs50.harvard.edu/python/2022/) - An online course from the Harvard University.
-- [freecodecamp](https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/) - A video course to guide you through Python basics.
-- [Python Programming MOOC](https://programming-23.mooc.fi/) - An online course from the Department of Computer Science at the University of Helsinki.
-- [w3schools - Python Tutorial](https://www.w3schools.com/python/default.asp) - An Online Tutorial: Learning Through Examples.
+- [CS50 - Python course](https://cs50.harvard.edu/python/2022/) - A free online course from Harvard University that introduces computer science concepts using Python. Suitable for beginners.
+- [Python Programming MOOC](https://programming-23.mooc.fi/) - A free online course from the University of Helsinki that covers Python programming fundamentals. Suitable for beginners.
+- [w3schools - Python Tutorial](https://www.w3schools.com/python/default.asp) -  A free online tutorial that teaches Python through examples. Suitable for beginners.
 
 :video_game: **Interactive Platforms**
 
-- [Kaggle - Intro to Programming](https://www.kaggle.com/learn/intro-to-programming) - An online course provided by the Kaggle. Learn through practical exercises and competitions.
-- [Kaggle - Python](https://www.kaggle.com/learn/python) - Continue learning after completing the Intro to Programming course.
+- [Exercism - Python Track](https://exercism.org/tracks/python) - An engaging, free interactive Python course , featuring coding exercises that reinforce understanding and practical application of key concepts. Suitable for beginners.
+- [Kaggle - Intro to Programming](https://www.kaggle.com/learn/intro-to-programming) - A free online course provided by Kaggle that teaches programming fundamentals through practical exercises and competitions. Suitable for beginners.
+- [Kaggle - Python](https://www.kaggle.com/learn/python) - A free intermediate-level course that builds upon the Intro to Programming course. Recommended for learners who have some programming experience.
 - [learnpython.org](https://learnpython.org/) - An interactive Python course where you learn by tackling challenges. Ideal for hands-on learners.
 
 :books: **Books**
 
-- [Learning Python - Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf) - The most comprehensive course to learn Python from scratch. For paper enthusiasts.
-- [The Hitchhiker’s Guide to Python - Kenneth Reitz](https://docs.python-guide.org/) - A opinionated guide to learn Python. For paper enthusiasts.
+- [Learning Python - Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf) - A comprehensive book for learning Python from scratch. Suitable for beginners who prefer paper-based learning.
+- [The Hitchhiker’s Guide to Python - Kenneth Reitz](https://docs.python-guide.org/) - An opinionated guide to learning Python, ideal for beginners who prefer a more structured approach.
 
 :video_camera: **Video Tutorials**
 
-
+- [freecodecamp](https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/) - A free video course that guides you through Python basics. Ideal for beginners who prefer video-based learning.
 
