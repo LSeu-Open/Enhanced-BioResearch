@@ -83,7 +83,7 @@ I will provide resources here to avoid the difficult part of choosing a course. 
 
 - [Kaggle - Intro to Programming](https://www.kaggle.com/learn/intro-to-programming) - An online course provided by the Kaggle. Learn through practical exercises and competitions.
 - [Kaggle - Python](https://www.kaggle.com/learn/python) - Continue learning after completing the Intro to Programming course.
-- [learnpython.org](https://learnpython.org/) - An interactive Python course where you learn by tackling challenges and watching videos from expert instructors.
+- [learnpython.org](https://learnpython.org/) - An interactive Python course where you learn by tackling challenges. Ideal for hands-on learners.
 
 :books: **Books**
 
