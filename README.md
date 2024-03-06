@@ -36,12 +36,7 @@ Feel free to open a pull request (PR) to enhance the repository.
 
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [Awesome Computational Biology](https://github.com/inoue0426/awesome-computational-biology) - A knowledge collection of databases, software, and papers related to computational biology.
-- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply to real-world problems.
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects, and communities.
-- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries, and resources.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries, and software.
 - [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
-- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks, and software.
 - [scikit-bio](https://github.com/scikit-bio/scikit-bio) - A community-driven Python library for bioinformatics, providing versatile data structures, algorithms, and educational resources.
 - [Seq](https://docs.seq-lang.org/) - A Pythonic language for computational genomics and bioinformatics.
 
@@ -100,6 +95,15 @@ Feel free to open a pull request (PR) to enhance the repository.
 ## Learning Ressources
 
 - [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center) - Resources for learning Python, R, and other programming languages.
-- [AI, ML and DL Section](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center/AI%2C%20Machine%20Learning%20and%20Deep%20Learning) - Resources for learning Data Science, Machine Learning, and Deep Learning.
+
+### Data Science, Machine Learning, and Deep Learning
+
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply to real-world problems.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects, and communities.
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries, and resources.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries, and software.
+- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks, and software.
+
+
 
 
