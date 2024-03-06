@@ -13,7 +13,7 @@ A curated list of repositories featuring articles, software, tools, pipelines, p
 - [Molecular Biology](#molecular-biology)
 - [Neurosciences](#neurosciences)
 - [Productivity](#productivity)
-- [Learning Ressources](#learning-ressources)
+- [Learning Resources](#learning-resources)
 
 
 ## About this Repository
@@ -92,7 +92,7 @@ Feel free to open a pull request (PR) to enhance the repository.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 
 
-## Learning Ressources
+## Learning Resources
 
 - [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center) - Resources for learning Python, R, and other programming languages.
 
