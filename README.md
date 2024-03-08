@@ -6,7 +6,7 @@ A curated list of repositories featuring articles, software, tools, pipelines, p
 
 - [Biological Imaging](#biological-imaging)
 - [Bioinformatics](#bioinformatics)
-- [Data Visualizations](#data-visualizations)
+- [Data Visualization](#data-visualization)
 - [Electrophysiology](#electrophysiology)
 - [Genetics and Genomics](#genetics-and-genomics)
 - [Microbiology](#microbiology)
@@ -39,7 +39,7 @@ Feel free to open a pull request (PR) to enhance the repository.
 - [scikit-bio](https://github.com/scikit-bio/scikit-bio) - A community-driven Python library for bioinformatics, providing versatile data structures, algorithms, and educational resources.
 - [Seq](https://docs.seq-lang.org/) - A Pythonic language for computational genomics and bioinformatics.
 
-## Data Visualizations
+## Data Visualization
 
 - [Awesome Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) - A list of tools that can be  useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) - Quarto® is an open-source scientific and technical publishing system built on Pandoc. A curated list of Quarto talks, tools, examples & articles!
@@ -89,6 +89,8 @@ Feel free to open a pull request (PR) to enhance the repository.
 
 - [Awesome Research](https://github.com/emptymalei/awesome-research) -  a curated list of tools to help you with your research/life;
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
+- [ResearchRabbit](https://www.researchrabbit.ai/) - an AI-powered research management tool designed to help researchers discover, organize, and manage academic literature.
+- [Scispace](https://scispace.com/) - an online platform designed to help researchers and scientists manage, analyze, and visualize scientific data and scientific papers.
 
 
 ## Learning Resources
