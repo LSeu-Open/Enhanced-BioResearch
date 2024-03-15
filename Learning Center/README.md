@@ -10,6 +10,9 @@ Feel free to open a pull request (PR) to enhance the repository.
   * [What is Python](#what-is-python)
   * [A process learn Python](#a-process-to-learn-python)
   * [Resources to learn python](#resources-to-learn-python)
+- [R](#r)
+  * [What is R language](#what-is-r-language)
+  * [Resources to learn R](#resources-to-learn-r)
 
 
 ## Python
@@ -95,3 +98,8 @@ I will provide resources here to avoid the difficult part of choosing a course. 
 - [freecodecamp](https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/) - A free video course that guides you through Python basics. Ideal for beginners who prefer video-based learning.
 - [Python Tutorials by Mosh](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - A nice video playlist from the youtuber "Programming with Mosh". Well suited for beginners.
 
+## R
+
+### What is R language
+
+### Resources to learn R
