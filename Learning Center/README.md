@@ -10,9 +10,11 @@ Feel free to open a pull request (PR) to enhance the repository.
   * [What is Python](#what-is-python)
   * [A process learn Python](#a-process-to-learn-python)
   * [Resources to learn python](#resources-to-learn-python)
+  * [Exploring Advanced Python usage](#exploring-advanced-python-usage)
 - [R](#r)
   * [What is R language](#what-is-r-language)
   * [Resources to learn R](#resources-to-learn-r)
+  * [Exploring Advanced R usage](#exploring-advanced-r-usage)
 
 
 ## Python
@@ -98,8 +100,20 @@ I will provide resources here to avoid the difficult part of choosing a course. 
 - [freecodecamp](https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/) - A free video course that guides you through Python basics. Ideal for beginners who prefer video-based learning.
 - [Python Tutorials by Mosh](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - A nice video playlist from the youtuber "Programming with Mosh". Well suited for beginners.
 
+### Exploring Advanced Python usage
+
+- [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply to real-world problems.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects, and communities.
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries, and resources.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries, and software.
+
 ## R
 
 ### What is R language
 
 ### Resources to learn R
+
+### Exploring Advanced R usage
+
+- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks, and software.
