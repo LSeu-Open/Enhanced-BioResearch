@@ -92,20 +92,12 @@ Feel free to open a pull request (PR) to enhance the repository.
 - [ResearchRabbit](https://www.researchrabbit.ai/) - an AI-powered research management tool designed to help researchers discover, organize, and manage academic literature.
 - [Scispace](https://scispace.com/) - an online platform designed to help researchers and scientists manage, analyze, and visualize scientific data and scientific papers.
 
+-------------------------------------------------
 
 ## Learning Resources
 
-- [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center) - Resources for learning Python, R, and other programming languages.
-
-### Data Science, Machine Learning, and Deep Learning
-
-- [Awesome Data Science](https://github.com/academic/awesome-datascience) - An awesome Data Science repository to learn and apply to real-world problems.
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects, and communities.
-- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries, and resources.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries, and software.
-- [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
-- [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks, and software.
-
+> [!Note]
+> [Learning Center](https://github.com/LSeu-Open/Enhanced-BioResearch/tree/main/Learning%20Center) - Resources for learning Python and R.
 
 
 
