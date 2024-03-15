@@ -93,4 +93,5 @@ I will provide resources here to avoid the difficult part of choosing a course. 
 :video_camera: **Video Tutorials**
 
 - [freecodecamp](https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/) - A free video course that guides you through Python basics. Ideal for beginners who prefer video-based learning.
+- [Python Tutorials by Mosh](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - A nice video playlist from the youtuber "Programming with Mosh". Well suited for beginners.
 
